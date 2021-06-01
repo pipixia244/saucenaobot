@@ -1,6 +1,6 @@
 # SauceNAO search bot for telegram
 
-Add friend: [@SauceNAO_Search_bot](https://t.me/SauceNAO_Search_bot)
+Add friend: [@ustcsearchbot](https://t.me/ustcsearchbot)
 
 ![preview](https://i.imgur.com/QTeACMz.png)
 
@@ -66,5 +66,5 @@ The format of `DATABASE_URL` should be: `postgresql://DB_USER:DB_USER_PASS@DB_UR
 
 #### Local deploy without a publicly accessible ip
 
-Replace [this line](https://github.com/maple3142/saucenao-search-tgbot/blob/801cab2550003b169f7b444dddc27bb5cb29df63/src/index.ts#L20) with `polling: true`, and remove [these lines](https://github.com/maple3142/saucenao-search-tgbot/blob/801cab2550003b169f7b444dddc27bb5cb29df63/src/index.ts#L23-L26) too.
+Replace [this line](https://github.com/pipixia244/saucenaobot/blob/801cab2550003b169f7b444dddc27bb5cb29df63/src/index.ts#L20) with `polling: true`, and remove [these lines](https://github.com/maple3142/saucenao-search-tgbot/blob/801cab2550003b169f7b444dddc27bb5cb29df63/src/index.ts#L23-L26) too.
 
